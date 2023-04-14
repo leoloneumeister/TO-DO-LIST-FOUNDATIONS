@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block body %}
+
+    <h1>Hello {{name}}!</h1>
+  
+    <p>You are visitor number {{visitor_number}}!</p>
+    <a href="/cookies">Cookies</a>
+    <br>
+
+    <a href="/legal">Download legal details</a>
+
+    <a href="/view-orders">Preview of orders</a>
+    
+{% endblock %}
