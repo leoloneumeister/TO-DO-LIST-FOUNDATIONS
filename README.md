@@ -1,1 +1,1 @@
-To do List for foundations.
+To do List for foundations. Only back end and database. html and css code will be included afterwards for the complete deployment. This is just to figure out if it works.
